@@ -4,5 +4,5 @@ If you are already an ML learner or even a beginner in this field, you might hav
 Well the first thing that comes to mind is image recognition of the food and then predicting the dishes on the model trained on a large dataset. 
 
 Congratulations,
-if you've thought along these lines you have made a good invesment of your time in this field. But you are half right. Though indeed we did an image prediction on the images, we instead of an entire inage were more focused on the ingredient pipeline.
+if you've thought along these lines you have made a good invesment of your time in this field. But you are half right. Though indeed we did an image prediction on the images, we instead of an entire inage were more focused on the ingredient pipeline..
 # OVERVIEW
