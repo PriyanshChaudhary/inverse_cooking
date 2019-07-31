@@ -19,11 +19,11 @@ Therefore, with the help of this model one is able to procure the recipe and nam
 A feedforward neural network is a part of the ANN (Artificial Neural Network) family. It’s a simple structured neural network that has only unidirectional flow of information originating from the input node to the target nodes via the hidden layers. This neural network has no feedback loops and is a single-layer perceptron consisting of a single layered output node. The inputs have associated weights that are used to modify the values accordingly.
 
 
-#Recurrent Neural Network
+# Recurrent Neural Network
  
 	An RNN also belongs to a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behaviour. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition
 
-#LSTM
+# LSTM
  
 
 Long short-term memory is an artificial neural network that finds its main usage in the field of deep learning. They differ from the feedforward neural networks. LSTM supports feedback connections which almost makes it work like a Turing Machine. LSTM can not only handle images efficiently but also other multimedia files (audio, video, etc.).  LSTM is applicable in both speech and image recognition modules having varied capabilities.
