@@ -20,15 +20,12 @@ A feedforward neural network is a part of the ANN (Artificial Neural Network) fa
 
 
 # Recurrent Neural Network
- 
-	An RNN also belongs to a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behaviour. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition
+ An RNN also belongs to a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behaviour. Unlike feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition
 
 # LSTM
- 
-
 Long short-term memory is an artificial neural network that finds its main usage in the field of deep learning. They differ from the feedforward neural networks. LSTM supports feedback connections which almost makes it work like a Turing Machine. LSTM can not only handle images efficiently but also other multimedia files (audio, video, etc.).  LSTM is applicable in both speech and image recognition modules having varied capabilities.
 
-#What is Anaconda Navigator?
+# What is Anaconda Navigator?
 
  
 Anaconda Navigator is a graphical interface UI (GUI) incorporated into Anaconda® corporation that enables you to dispatch applications and effectively supervise conda packages, situations and channels without utilizing direction line directions. Pilot can look for bundles on Anaconda Cloud or in a nearby Anaconda Repository. It is accessible for Windows, macOS, and Linux. 
