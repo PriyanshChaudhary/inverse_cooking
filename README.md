@@ -35,4 +35,5 @@ Due to the failure of previous models in the field of accuracy of ingredient pre
 
   Instead of predicting the food preparing process without an intermediary in between to process the minute details, this model makes use of a pipeline containing the necessary parameters for the analysis and prediction of the ingredients and the recipe. As depicted in the figure above, instead of thinking of all ingredients present together as a set, this model actually considers them as a list. After all, one can presume that the ingredients are ordered and always put into the dish sequentially according to the recipe. Hence, to include that facet into our approach this project used both the list and set form of ingredients and trained the model over both parameters.
  
+# How-to-do
 
