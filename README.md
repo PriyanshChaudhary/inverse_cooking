@@ -38,3 +38,4 @@ Due to the failure of previous models in the field of accuracy of ingredient pre
 # How-to-do
 
 Know more about torch library, using Pytorch in this case and transformer model.
+# upload all material next...
